@@ -24,7 +24,4 @@ gulp.task('compile-less', function(){
 
 // default task we are not making up the
 // default name, second arg is an array of tasks to be run
-gulp.task('default', ['compile-less', 'watch'])
-
-
-
+gulp.task('default', ['compile-less', 'watch']);

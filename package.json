@@ -9,9 +9,15 @@
   "author": "Jim",
   "license": "MIT",
   "devDependencies": {
+    "express": "^4.15.3",
     "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2",
     "gulp-watch": "^4.3.11"
   },
   "dependencies": {
+    "express": "^4.15.3",
+    "handlebars": "^4.0.10",
+    "hbs": "^4.0.1",
+    "http": "0.0.0"
   }
 }

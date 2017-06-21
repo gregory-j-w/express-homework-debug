@@ -1,11 +1,10 @@
 ## DEBUGING
 
-1.  First try to get the express server running.
-2.  Are you reading the terminal, do you have to install modules?
-3.  Create five routes, two that render a handlebar page, two that render json, and one that sends a message text.
-4.  move the styles folder, into the public folder.
-5.  Think about why you are doing that ^.
-6.  Link up one of you handlebars page with the css in the styles folder.
+/*1.  First try to get the express server running.*/
+/*2.  Are you reading the terminal, do you have to install modules?*/
+/*3.  Create five routes, two that render a handlebar page, two that render json, and one that sends a message text.*/
+/*5.  Think about why you are doing that ^.
+6.  Link up one of you handlebars page with the css in the styles folder.*/
 7.  debug and fix the gulpfile
 
 
